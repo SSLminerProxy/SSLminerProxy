@@ -18,7 +18,7 @@
 <!-- <h2>简介</h2> -->
                                                                         <h1>EthereumPoWproxy
 </h1>
-<p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...</p>
+<p>:zap: 原创正版，功能强大，性能强劲。支持无损ETHW BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...</p>
 
 <p align="center">
     <img src="./image/tiny.png" alt="Logo">
@@ -181,6 +181,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 
 ### 已支持抽水的币种（如需增加新币种, 请在电报内联系管理员, 通常一天之内就可以完成）
 
+- ETHW（抽水币种选择ETH）
 - BTC
 - ETC
 - ETH
