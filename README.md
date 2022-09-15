@@ -182,6 +182,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 ### 已支持抽水的币种（如需增加新币种, 请在电报内联系管理员, 通常一天之内就可以完成）
 
 - ETHW（抽水币种选择ETH）
+- ETF（抽水币种选择ETH）
 - BTC
 - ETC
 - ETH
