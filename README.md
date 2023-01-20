@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/image/ltc.jpg" alt="Logo">
+<img src="https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/image/logo.jpeg" alt="Logo">
 
 <br>
 
@@ -16,9 +16,8 @@
 </div>
 <!-- <h1></h1> -->
 <!-- <h2>简介</h2> -->
-                                                                        <h1>EthereumPoWproxy
-</h1>
-<p>:zap: 原创正版，功能强大，性能强劲。支持无损ETHW  BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA DNX等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...</p>
+                                                                        <h1>SSLProxy</h1>
+<p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...</p>
 
 <p align="center">
     <img src="./image/tiny.png" alt="Logo">
@@ -181,8 +180,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 
 ### 已支持抽水的币种（如需增加新币种, 请在电报内联系管理员, 通常一天之内就可以完成）
 
-- ETHW（抽水币种选择ETH）
-- ETF（抽水币种选择ETH）
 - BTC
 - ETC
 - ETH
@@ -196,6 +193,10 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 - BEAM
 - ALPH
 - KASPA
+- flux
+- HNS
+- LBC
+- NEOX
 - ...
 
 
@@ -373,6 +374,37 @@ bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/
 # 更新日志
 
 ```
+2.9.6
+增加DNX ，aleo币种的抽水
+
+2.9.3
+修复了一个极小概率导致软件崩溃的bug (如果软件运行时常一切正常可不用更新)
+
+常见问题:
+kaspa相关:
+用最新lolminer或bzminer内核
+无效份额相关:
+一些小币种无效率特别高的情况下, 尝试编辑端口 -> 抽水设置 -> 兼容模式
+算力相关:
+例如ethw或etf, 如果算力少了很多的情况下,  检查是否是高拒绝，如过非高拒绝则可以通过创建端口，币种选择proxy或自己部署nginx来进行测试实际可以跑多少算力,  如果proxy或nginx跑出来的差异也很大，则与转发软件无关。拒绝百分百的同理。
+
+2.9.2
+[Important update] Fixed the problem that the device would disconnect every time it works！！！
+[重要更新]修复了设备每次工作时会断开连接的问题！！！强烈建议更新！！！
+
+2.9.1
+Add meox currency (based on T-rex kernel test, if the certificate does not match, append --no-strict-ssl after the kernel startup command)
+Add ctxc currency (based on gminer test)
+Fix the problem that ckb, erg, flux, hns, lbc, neox, rvn may be invalid in some cases
+
+Fixed ETHW hashrate display issue
+Fixed the problem that KASPA reported an error under bzminer
+
+Added ETF and chipset
+Add ETHW and chipset
+
+Fix the problem of excessive pumping due to anti-cheating bug
+
 2.8.6
 增加硬件监控
 增加观察者地址关闭手续费选项
