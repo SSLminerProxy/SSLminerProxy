@@ -16,22 +16,32 @@
 </div>
 <!-- <h1></h1> -->
 <!-- <h2>简介</h2> -->
-                                                                        <h1>请移步至SSLProxy：https://github.com/SSLminerProxy/SSLproxy</h1>
-<p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...</p>
+                                                                        <h1>SSLProxy</h1>
+<p>
+Professional mine operation and maintenance tools, improve mine profits, detect abnormalities in mines and nodes, and become the best assistant of mines. (this software is only for use in legally licensed areas. If you use this software, it means that you accept this license by default. If you use it in a restricted area, you should bear the legal problems caused by it.)
+</p>
+                                                                        
+<p>:zap: 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，4000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义加密隧道推送工具等强大功能...
+</p>
+<p>
+⚡ Original and genuine, powerful and powerful. Support lossless BTC ETC ETH LTC ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA DCR FLUX NEOX and other currency pumping, no memory burst, experience full, 9000 units without pressure and no collapse, accurate to 24-hour data statistics of a single device , custom tunnel push tool and other powerful functions...
+</p>
 
 <p align="center">
     <img src="./image/tiny.png" alt="Logo">
   </p>
 
-<h2>Linux一键安装管理命令</h2>
+<h2>Linux一键安装管理命令  One-click toolbox for Linux</h2>
 <p>root用户直接执行以下命令, 根据提示选择对应功能即可。</p>
+<p>The root user directly executes the following commands, and selects the corresponding function according to the prompts.</p>
 
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/SSLminerProxy/SSLproxy/main/linux-install.sh)
 ```
 
-<h2>免责声明</h2>
+<h2>免责声明Disclaimer</h2>
 <p>法律不支持的地区此程序无法使用，请自觉遵守当地相关政策，使用此软件造成的法律问题，一概与软件作者无关。</p>
+<p>This software is only for use in areas permitted by law. If you use this software, it means that you accept this license by default. If you use it in restricted areas, you will be responsible for legal problems.</p>
 
 # 导航
 
