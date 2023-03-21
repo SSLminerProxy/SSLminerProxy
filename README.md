@@ -10,6 +10,7 @@
 <h3>
     Telegram：<a href="https://t.me/SSLminerProxy">https://t.me/SSLminerProxy</a>
     # QQ群：923469225
+    #抽BTC请选择此版本https://github.com/SSLminerProxy/SSLminer
 
 </h3>
 
