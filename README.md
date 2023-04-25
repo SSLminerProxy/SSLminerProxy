@@ -8,7 +8,7 @@
 <br>
 
 <h3>
-    BTC专业版：强烈推荐使用https://github.com/SSLminerProxy/SSLminer
+    超级稳定版！强烈推荐使用SSLminer：https://github.com/SSLminerProxy/SSLminer
     
     Telegram：<a href="https://t.me/SSLminerProxy">https://t.me/SSLminerProxy</a>
     # QQ群：923469225
